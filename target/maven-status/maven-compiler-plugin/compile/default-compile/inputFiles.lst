@@ -1,0 +1,8 @@
+/home/joal/JavaProjects/spring5webapp/src/main/java/com/springprojects/spring5webapp/repositories/BookRepository.java
+/home/joal/JavaProjects/spring5webapp/src/main/java/com/springprojects/spring5webapp/model/Book.java
+/home/joal/JavaProjects/spring5webapp/src/main/java/com/springprojects/spring5webapp/bootstrap/DevBootstrap.java
+/home/joal/JavaProjects/spring5webapp/src/main/java/com/springprojects/spring5webapp/model/Author.java
+/home/joal/JavaProjects/spring5webapp/src/main/java/com/springprojects/spring5webapp/repositories/PublisherRepository.java
+/home/joal/JavaProjects/spring5webapp/src/main/java/com/springprojects/spring5webapp/repositories/AuthorRepository.java
+/home/joal/JavaProjects/spring5webapp/src/main/java/com/springprojects/spring5webapp/model/Publisher.java
+/home/joal/JavaProjects/spring5webapp/src/main/java/com/springprojects/spring5webapp/Spring5webappApplication.java
